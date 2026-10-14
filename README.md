@@ -1,10 +1,10 @@
-# otomasikerja.store — Kantor Virtual
+# otomatisasi.store — Kantor Virtual
 
-Kantor virtual pixel-art isometrik untuk **otomasikerja.store**, terinspirasi dari
+Kantor virtual pixel-art isometrik untuk **otomatisasi.store**, terinspirasi dari
 [W17ant/Claude-Office](https://github.com/W17ant/Claude-Office).
 
 > ⚠️ **Gimmick.** Semua gerakan, dialog, dan event di kantor ini dibuat **acak di browser**.
-> Tidak ada koneksi ke backend dan tidak mencerminkan aktivitas nyata di otomasikerja.store.
+> Tidak ada koneksi ke backend dan tidak mencerminkan aktivitas nyata di otomatisasi.store.
 
 ## Tim
 
@@ -44,3 +44,9 @@ npm run build    # hasil statis di dist/ — bisa di-upload ke hosting mana pun
 Aset gambar (ruangan, sprite karakter, furnitur, efek) dan data koordinat ruangan berasal dari
 [Claude-Office](https://github.com/W17ant/Claude-Office) © 2026 W17ANT, lisensi MIT —
 lihat [LICENSE-THIRD-PARTY.md](LICENSE-THIRD-PARTY.md).
+
+## Lokasi utama
+
+Versi yang dirawat dan di-deploy sekarang ada di repo
+[`jbsfnc123/otomatisasi.store`](https://github.com/jbsfnc123/otomatisasi.store) pada folder `office/`
+(lengkap dengan konfigurasi Cloudflare & workflow deploy).

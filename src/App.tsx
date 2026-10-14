@@ -48,7 +48,7 @@ export default function App() {
         <div className="brand">
           <span className="logo">⚙️</span>
           <div>
-            <b>otomasikerja<span>.store</span></b>
+            <b>otomatisasi<span>.store</span></b>
             <small>Kantor Virtual</small>
           </div>
         </div>
@@ -96,7 +96,7 @@ export default function App() {
         </div>
       </main>
       <footer className="foot">
-        Visualisasi ini hanya gimmick — perilaku agent dibuat acak dan tidak mencerminkan aktivitas nyata di otomasikerja.store.
+        Visualisasi ini hanya gimmick — perilaku agent dibuat acak dan tidak mencerminkan aktivitas nyata di otomatisasi.store.
         <span> · seed {sim.seed}</span>
       </footer>
     </div>

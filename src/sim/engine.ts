@@ -112,7 +112,7 @@ export class OfficeSim {
       return a
     })
     this.nextEvent = 25_000
-    this.log(null, '🏢 Kantor virtual otomasikerja.store dibuka. Semua aktivitas di sini adalah simulasi.', 'event')
+    this.log(null, '🏢 Kantor virtual otomatisasi.store dibuka. Semua aktivitas di sini adalah simulasi.', 'event')
   }
 
   // ---------------------------------------------------------------- helpers

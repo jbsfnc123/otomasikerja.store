@@ -1,8 +1,8 @@
 {
-  "name": "otomasikerja-virtual-office",
+  "name": "otomatisasi-office",
   "private": true,
   "version": "1.0.0",
-  "description": "Kantor virtual pixel-art otomasikerja.store — simulasi perilaku agent (gimmick).",
+  "description": "Kantor virtual pixel-art otomatisasi.store — simulasi perilaku agent (gimmick).",
   "type": "module",
   "scripts": {
     "dev": "vite",

@@ -16,7 +16,7 @@ export default function Office({ sim, night, selected, onSelect }: Props) {
       <div className="room-bg" style={{ backgroundImage: `url(${asset('rooms/office-day.webp')})` }} />
       <div className="room-bg" style={{ backgroundImage: `url(${asset('rooms/office-night.webp')})`, opacity: night ? 1 : 0 }} />
       <div className="door-sign">OWNER · AI</div>
-      <div className="window-brand">otomasikerja.store</div>
+      <div className="window-brand">otomatisasi.store</div>
       {FURNITURE.map(f => (
         <img
           key={f.id}

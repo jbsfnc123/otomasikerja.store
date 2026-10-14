@@ -1,4 +1,4 @@
-// Tim kantor virtual otomasikerja.store.
+// Tim kantor virtual otomatisasi.store.
 // Semua perilaku & dialog di bawah adalah gimmick — tidak mencerminkan aktivitas nyata di sistem.
 
 export type ActivityId =
@@ -43,7 +43,7 @@ export const AGENTS: AgentDef[] = [
     color: '#d97757',
     emoji: '🤖',
     desk: 'spot-5',
-    bio: 'Pemilik otomasikerja.store. Tidak pernah tidur, selalu "cuma mau cek sebentar".',
+    bio: 'Pemilik otomatisasi.store. Tidak pernah tidur, selalu "cuma mau cek sebentar".',
     traits: { work: 4, visit: 5, coffee: 1.5, kanban: 2, phone: 1.5, wander: 1.5 },
     lines: {
       work: ['Review roadmap Q4…', 'Prompting ulang strategi bisnis 🧠', 'Baca laporan mingguan', 'Approve 3 proposal sekaligus ✅'],
